@@ -1,0 +1,15 @@
+/home/jeff/projects/C#/PingApp/bin/Debug/net6.0/PingApp
+/home/jeff/projects/C#/PingApp/bin/Debug/net6.0/PingApp.deps.json
+/home/jeff/projects/C#/PingApp/bin/Debug/net6.0/PingApp.runtimeconfig.json
+/home/jeff/projects/C#/PingApp/bin/Debug/net6.0/PingApp.dll
+/home/jeff/projects/C#/PingApp/bin/Debug/net6.0/PingApp.pdb
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.csproj.AssemblyReference.cache
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.AssemblyInfoInputs.cache
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.AssemblyInfo.cs
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.csproj.CoreCompileInputs.cache
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.dll
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/refint/PingApp.dll
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.pdb
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/PingApp.genruntimeconfig.cache
+/home/jeff/projects/C#/PingApp/obj/Debug/net6.0/ref/PingApp.dll
